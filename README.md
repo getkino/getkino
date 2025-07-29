@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=getkino&show_icons=true&locale=tr" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getkino&layout=compact&title_color=FF5733&locale=tr" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=getkino&show_icons=true&locale=tr" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getkino&layout=compact&title_color=FF5733&locale=tr" alt="Top Languages" height="150"/>
 </p>
 
 ![Test SVG](https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg)
