@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getkino&layout=compact&title_color=FF5733&locale=tr" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg" alt="GitHub Stats" height="165"/>
+  <img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg" alt="GitHub Stats" height="155"/>
 </p>
 
 
