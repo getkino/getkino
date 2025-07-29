@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getkino&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getkino&layout=compact)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=getkino&layout=compact&title_color=FF5733&locale=tr)
 
 ![GitHub Snake](https://github.com/getkino/getkino/blob/output/github-contribution-grid-snake.svg)
 
