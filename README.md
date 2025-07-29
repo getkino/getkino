@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Merhaba, ben Hüseyin (@GitLatte)
 
-<!--
-**getkino/getkino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Python geliştiricisiyim — özellikle otomasyon, GUI tasarımı ve PDF işlemeye odaklanıyorum.  
+🎯 Kullanıcı dostu, sade ve işlevsel uygulamalar geliştirmeyi seviyorum.  
+📁 Popüler projelerim arasında Cloudstream eklentileri ve M3U düzenleyiciler yer alıyor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Şu anda neler üzerinde çalışıyorum:
+- Tkinter tabanlı, sayfa önizleme ve seçmeli kayıt özelliğine sahip PDF aracı
+- SVG dosyaları üzerinde renk ve boyut ayarları içeren projeler
+- Video ve logo entegrasyonu içeren marka içerikleri
+
+#### 🔍 İşbirliği yapmak isterim:
+- Açık kaynak otomasyon projeleri
+- GUI'lerde kullanıcı deneyimini artıran fikirler
+- Markdown ve GitHub estetiği üzerine yaratıcı projeler
+
+#### 📬 Bana ulaşmak için:
+- GitHub Issues veya Discussions bölümlerinden
+- [Email veya sosyal medya eklenebilir]
+
+#### ⚡ İlginç bir bilgi:
+- Kodlama benim için sadece bir araç değil, aynı zamanda bir ifade biçimi.
+
+---
+> “Bir sorun varsa, bir çözüm de vardır — yeter ki doğru algoritmayla bak!”
