@@ -1,9 +1,7 @@
-<img src="https://skillicons.dev/icons?i=python,bash,javascript,html,css" alt="Skill Icons">
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=getkino&show_icons=true&theme=radical)
 
-
-![GitHub Snake](https://github.com/getkino/getkino/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -11,3 +9,5 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=getkino)
 
+
+<img src="https://skillicons.dev/icons?i=python,bash,javascript,html,css" alt="Skill Icons">
