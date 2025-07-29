@@ -7,8 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getkino&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=getkino&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getkino&layout=compact)
 
 ![GitHub Snake](https://github.com/getkino/getkino/blob/output/github-contribution-grid-snake.svg)
