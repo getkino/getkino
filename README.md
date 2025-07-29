@@ -9,8 +9,3 @@
 
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=getkino&layout=compact&title_color=FF5733&locale=tr)
 
-![GitHub Snake](https://github.com/getkino/getkino/blob/output/github-contribution-grid-snake.svg)
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=getkino&repo=my-awesome-project)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=getkino)
