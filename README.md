@@ -9,3 +9,5 @@
 
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=getkino&layout=compact&title_color=FF5733&locale=tr)
 
+https://raw.githubusercontent.com/getkino/getkino/output/ocean.svg
+
