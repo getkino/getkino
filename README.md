@@ -9,3 +9,7 @@
   <rect x="10" y="80" width="100" height="20" fill="#f0db4f"/>
   <text x="120" y="95" fill="black">JavaScript</text>
 </svg>
+
+
+
+![Weather in Marmaris](https://weather-widget.vercel.app/api?location=Marmaris)
