@@ -12,7 +12,7 @@
 
 ![Test SVG](https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg)
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg)" alt="GitHub Stats" height="165"/>
+  <img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg" alt="GitHub Stats" height="165"/>
 </p>
 
 
