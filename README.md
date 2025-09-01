@@ -5,7 +5,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,pr,ps" />
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg" alt="GitHub Stats" height="155"/>
+  ![Snake animation](https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake.svg)
+  ![Snake animation (dark)](https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake-dark.svg)
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=getkino&show_icons=true&locale=tr" alt="GitHub Stats" height="165"/>
@@ -14,3 +16,5 @@
 
 
 
+![Snake animation](https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake.svg)
+![Snake animation (dark)](https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake-dark.svg)
