@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/getkino/getkino&title=visitors&title_bg=%23555555&count_bg=%232ea8ff&edge_flat=false)](https://hits.seeyoufarm.com)
-" />
-</p>
+[![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/getkino/getkino&title=visitors&title_bg=%23555555&count_bg=%232ea8ff&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php" /><br>
   <img src="https://skillicons.dev/icons?i=python,tkinter,pypdf2,pdf2image,svg" /><br>
