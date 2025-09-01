@@ -1,11 +1,5 @@
 ![visitors](https://img.shields.io/badge/dynamic/json?label=visitors&query=value&color=2ea8ff&labelColor=555555&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgetkino.getkino%2Fvisitors)
 
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" /><br>
-  <img src="https://skillicons.dev/icons?i=python,tkinter,pypdf2,pdf2image,svg" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,pr,ps" />
-</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake-dark.svg" />
 </p>
