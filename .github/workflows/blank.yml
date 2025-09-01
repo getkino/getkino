@@ -1,58 +1,39 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 name: Generate Snake
-
-# Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
-      # execute every 12 hours
-    - cron: "0 */12 * * *" # 
- 
-# This command allows us to run the Action automatically from the Actions tab.
+    # execute every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
+permissions:
+  contents: write
+
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v4
-    
-    # Generates the snake
-      - name: generate github-contribution-grid-snake.svg
-        id: snake-svg
-        uses: Platane/snk/svg-only@v3  #Old: aelassas/snk/svg-only@main
+
+      # Generate the snake SVGs
+      - name: Generate contribution snake SVGs
+        id: snake
+        uses: Platane/snk/svg-only@v3
         with:
+          # Or set explicitly: github_user_name: getkino
           github_user_name: ${{ github.repository_owner }}
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            "dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
 
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+      - run: ls -la dist && git status
 
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_PAT }}
-          branch: main
-          force: true
-
-      - name: Deploy to Readme Page
+      # Publish the generated files to the `output` branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
