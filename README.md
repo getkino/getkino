@@ -5,6 +5,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,pr,ps" />
 </div>
 <p align="center">
+  <img src="[https://skillicons.dev/icons?i=python,tkinter,pypdf2,pdf2image,svg](https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake.svg)" /><br>
+  <img src="https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake.svg" />
   ![Snake animation](https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake.svg)
   ![Snake animation (dark)](https://raw.githubusercontent.com/getkino/getkino/output/github-contribution-grid-snake-dark.svg)
 
