@@ -1,4 +1,4 @@
-[![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/getkino/getkino&title=visitors&title_bg=%23555555&count_bg=%232ea8ff&edge_flat=false)](https://hits.seeyoufarm.com)
+![visitors](https://img.shields.io/badge/dynamic/json?label=visitors&query=value&color=2ea8ff&labelColor=555555&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgetkino.getkino%2Fvisitors)
 
 
 <div align="center">
